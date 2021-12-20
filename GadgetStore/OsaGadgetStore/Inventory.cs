@@ -44,18 +44,7 @@ namespace OsaGadgetStore
 
             return items;
         }
-        public List<Inventory> AddInventory()
-        {
-            //items.Add(itemName, itemId, price);
-            // List<Inventory> items = new List<Inventory>();
-            items = new List<Inventory>();
-
-            items.Add(new Inventory( "", ""));
-
-          //  IConn repository = new Connection(connectionString);
-
-            return items;
-        }
+     
     }
 }
 
