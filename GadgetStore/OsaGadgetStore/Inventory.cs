@@ -2,7 +2,7 @@
 
 namespace OsaGadgetStore
 {
-    public class Inventory:Shop
+    public class Inventory
     {
         private string itemName;
         private string itemId;
