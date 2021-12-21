@@ -16,7 +16,7 @@ namespace OsaGadgetStore
 
 
 
-        public IEnumerable<MyData> GetAllRoundsOfPlayer()
+        public List<MyData> GetAllRoundsOfPlayer()
         {
             List<MyData> result = new();
 
@@ -25,7 +25,7 @@ namespace OsaGadgetStore
 
             using SqlCommand cmd = new(
                 @"Select *
-                from Employee",
+                from Inventory",
                 connection);
 
             // using (SqlDataReader reader = cmd.ExecuteReader())
@@ -47,10 +47,12 @@ namespace OsaGadgetStore
             {
                 //Console.WriteLine($"{row["FirstName"]}: \"{row["LastName"]}");
                // Console.WriteLine(row["FirstName"]);
-                string lnane =row["LastName"].ToString();
-                string Fnane = row["LastName"].ToString();
+                string itemName =row["ItemName"].ToString();
+                double itemPrice = Convert.ToDouble(row["ItemPrice"]);
+                string itemLocation = row["ItemLocation"].ToString();
 
-                result.Add(new(lnane, Fnane));
+
+                result.Add(new(itemName, itemLocation, itemPrice));
 
 
             }

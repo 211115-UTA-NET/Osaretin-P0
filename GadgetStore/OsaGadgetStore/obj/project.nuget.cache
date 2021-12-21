@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xxfvQSoYiJOOV516SG5DvTwvRmX+t/hK0laEiD9WsOKLBV8rZCjuZ+k7gk9DEZdp5vaNSybet+zaG0oFYXKUtQ==",
+  "dgSpecHash": "QN2BPBY1+Eqq0NCBXLkc2M0uuUEWOlEzQ1vPN2LYV5AL5uIcu8rCoON+NC8LX9pAxIAy5HNi6RAWBApO32Fw5g==",
   "success": true,
-  "projectFilePath": "/Users/osaiyen/Desktop/P01/forGit/OsaGadgetStore/OsaGadgetStore/GadgetStore.csproj",
+  "projectFilePath": "/Users/osaiyen/Desktop/OsaGadgetStore/OsaGadgetStore/OsaGadgetStore.csproj",
   "expectedPackageFiles": [
     "/Users/osaiyen/.nuget/packages/microsoft.netcore.platforms/3.1.0/microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "/Users/osaiyen/.nuget/packages/microsoft.win32.registry/4.7.0/microsoft.win32.registry.4.7.0.nupkg.sha512",

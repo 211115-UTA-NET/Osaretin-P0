@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/osaiyen/Desktop/P01/forGit/OsaGadgetStore/OsaGadgetStore.Test/OsaGadgetStore.Test.csproj": {}
+    "/Users/osaiyen/Desktop/OsaGadgetStore/OsaGadgetStore.Test/OsaGadgetStore.Test.csproj": {}
   },
   "projects": {
-    "/Users/osaiyen/Desktop/P01/forGit/OsaGadgetStore/OsaGadgetStore.Test/OsaGadgetStore.Test.csproj": {
+    "/Users/osaiyen/Desktop/OsaGadgetStore/OsaGadgetStore.Test/OsaGadgetStore.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/osaiyen/Desktop/P01/forGit/OsaGadgetStore/OsaGadgetStore.Test/OsaGadgetStore.Test.csproj",
+        "projectUniqueName": "/Users/osaiyen/Desktop/OsaGadgetStore/OsaGadgetStore.Test/OsaGadgetStore.Test.csproj",
         "projectName": "OsaGadgetStore.Test",
-        "projectPath": "/Users/osaiyen/Desktop/P01/forGit/OsaGadgetStore/OsaGadgetStore.Test/OsaGadgetStore.Test.csproj",
+        "projectPath": "/Users/osaiyen/Desktop/OsaGadgetStore/OsaGadgetStore.Test/OsaGadgetStore.Test.csproj",
         "packagesPath": "/Users/osaiyen/.nuget/packages/",
-        "outputPath": "/Users/osaiyen/Desktop/P01/forGit/OsaGadgetStore/OsaGadgetStore.Test/obj/",
+        "outputPath": "/Users/osaiyen/Desktop/OsaGadgetStore/OsaGadgetStore.Test/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/osaiyen/.config/NuGet/NuGet.Config"
@@ -26,8 +26,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/osaiyen/Desktop/P01/forGit/OsaGadgetStore/OsaGadgetStore/OsaGadgetStore.csproj": {
-                "projectPath": "/Users/osaiyen/Desktop/P01/forGit/OsaGadgetStore/OsaGadgetStore/OsaGadgetStore.csproj"
+              "/Users/osaiyen/Desktop/OsaGadgetStore/OsaGadgetStore/OsaGadgetStore.csproj": {
+                "projectPath": "/Users/osaiyen/Desktop/OsaGadgetStore/OsaGadgetStore/OsaGadgetStore.csproj"
               }
             }
           }
@@ -82,14 +82,14 @@
         }
       }
     },
-    "/Users/osaiyen/Desktop/P01/forGit/OsaGadgetStore/OsaGadgetStore/OsaGadgetStore.csproj": {
+    "/Users/osaiyen/Desktop/OsaGadgetStore/OsaGadgetStore/OsaGadgetStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/osaiyen/Desktop/P01/forGit/OsaGadgetStore/OsaGadgetStore/OsaGadgetStore.csproj",
+        "projectUniqueName": "/Users/osaiyen/Desktop/OsaGadgetStore/OsaGadgetStore/OsaGadgetStore.csproj",
         "projectName": "OsaGadgetStore",
-        "projectPath": "/Users/osaiyen/Desktop/P01/forGit/OsaGadgetStore/OsaGadgetStore/OsaGadgetStore.csproj",
+        "projectPath": "/Users/osaiyen/Desktop/OsaGadgetStore/OsaGadgetStore/OsaGadgetStore.csproj",
         "packagesPath": "/Users/osaiyen/.nuget/packages/",
-        "outputPath": "/Users/osaiyen/Desktop/P01/forGit/OsaGadgetStore/OsaGadgetStore/obj/",
+        "outputPath": "/Users/osaiyen/Desktop/OsaGadgetStore/OsaGadgetStore/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/osaiyen/.config/NuGet/NuGet.Config"

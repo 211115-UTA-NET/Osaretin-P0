@@ -459,11 +459,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/osaiyen/Desktop/P01/forGit/OsaGadgetStore/OsaGadgetStore/GadgetStore.csproj",
-      "projectName": "GadgetStore",
-      "projectPath": "/Users/osaiyen/Desktop/P01/forGit/OsaGadgetStore/OsaGadgetStore/GadgetStore.csproj",
+      "projectUniqueName": "/Users/osaiyen/Desktop/OsaGadgetStore/OsaGadgetStore/OsaGadgetStore.csproj",
+      "projectName": "OsaGadgetStore",
+      "projectPath": "/Users/osaiyen/Desktop/OsaGadgetStore/OsaGadgetStore/OsaGadgetStore.csproj",
       "packagesPath": "/Users/osaiyen/.nuget/packages/",
-      "outputPath": "/Users/osaiyen/Desktop/P01/forGit/OsaGadgetStore/OsaGadgetStore/obj/",
+      "outputPath": "/Users/osaiyen/Desktop/OsaGadgetStore/OsaGadgetStore/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/osaiyen/.config/NuGet/NuGet.Config"

@@ -1,7 +1,7 @@
 ﻿using System;
 namespace OsaGadgetStore
 {
-    public class ShoppingCart : Shop
+    public class ShoppingCart
     {
         public ShoppingCart()
         {
