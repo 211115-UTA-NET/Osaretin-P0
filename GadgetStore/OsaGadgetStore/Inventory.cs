@@ -23,12 +23,7 @@ namespace OsaGadgetStore
 
         }
 
-        public void AddToInventroy()
-        {
-            //items.Add(itemName, itemId, price);
-            //items.Add(new Inventory(itemName, itemId, price));
-        }
-
+       
         public void DeleteFromInventroy()
         {
             //items.Add(itemName, itemId, price);
@@ -50,18 +45,7 @@ namespace OsaGadgetStore
             return allRecords;
         }
 
-        public List<Inventory> AddInventory()
-        {
-            //items.Add(itemName, itemId, price);
-            // List<Inventory> items = new List<Inventory>();
-            items = new List<Inventory>();
-
-            items.Add(new Inventory( "", ""));
-
-          //  IConn repository = new Connection(connectionString);
-
-            return items;
-        }
+      
     }
 }
 
