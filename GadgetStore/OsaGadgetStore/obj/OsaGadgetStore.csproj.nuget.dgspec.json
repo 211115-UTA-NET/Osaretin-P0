@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/osaiyen/Desktop/OsaGadgetStore/OsaGadgetStore/OsaGadgetStore.csproj": {}
+    "/Users/osaiyen/Desktop/p01/OsaGadgetStore/OsaGadgetStore/OsaGadgetStore.csproj": {}
   },
   "projects": {
-    "/Users/osaiyen/Desktop/OsaGadgetStore/OsaGadgetStore/OsaGadgetStore.csproj": {
+    "/Users/osaiyen/Desktop/p01/OsaGadgetStore/OsaGadgetStore/OsaGadgetStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/osaiyen/Desktop/OsaGadgetStore/OsaGadgetStore/OsaGadgetStore.csproj",
+        "projectUniqueName": "/Users/osaiyen/Desktop/p01/OsaGadgetStore/OsaGadgetStore/OsaGadgetStore.csproj",
         "projectName": "OsaGadgetStore",
-        "projectPath": "/Users/osaiyen/Desktop/OsaGadgetStore/OsaGadgetStore/OsaGadgetStore.csproj",
+        "projectPath": "/Users/osaiyen/Desktop/p01/OsaGadgetStore/OsaGadgetStore/OsaGadgetStore.csproj",
         "packagesPath": "/Users/osaiyen/.nuget/packages/",
-        "outputPath": "/Users/osaiyen/Desktop/OsaGadgetStore/OsaGadgetStore/obj/",
+        "outputPath": "/Users/osaiyen/Desktop/p01/OsaGadgetStore/OsaGadgetStore/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/osaiyen/.config/NuGet/NuGet.Config"

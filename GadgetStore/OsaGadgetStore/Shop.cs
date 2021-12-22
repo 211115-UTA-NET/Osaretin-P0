@@ -5,7 +5,7 @@ namespace OsaGadgetStore
     {
       
 
-        public string connectionString = File.ReadAllText("/Users/o/documents/dbKey.txt");
+        public string connectionString = File.ReadAllText("/Users/osaiyen/documents/dbKey.txt");
         public List<Inventory> items
         {
             set { items = value; }
