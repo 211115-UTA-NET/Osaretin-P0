@@ -13,7 +13,6 @@ namespace OsaGadgetStore
         private int Quatity;
         private string time;
 
-
         public Inventory(string itemName, string itemId)
         {
             this.itemId = itemId;
@@ -93,7 +92,6 @@ namespace OsaGadgetStore
         {
             return time;
         }
-
     }
 }
 

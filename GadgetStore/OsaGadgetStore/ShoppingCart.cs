@@ -10,8 +10,6 @@ namespace OsaGadgetStore
         private double cost;
         private int Quantity;
 
-        int t = 0;
-
         public ShoppingCart(int itemId, int itemNum, string itemName,  string location, double cost, int Quatity)
         {
             this.itemName = itemName;
@@ -21,10 +19,10 @@ namespace OsaGadgetStore
             this.cost = cost;
             this.Quantity = Quatity;
         }
+        public ShoppingCart()
+        {
 
- 
-
-
+        }
         public string getName()
         {
             return itemName;

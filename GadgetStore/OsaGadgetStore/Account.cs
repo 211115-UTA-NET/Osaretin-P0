@@ -77,8 +77,6 @@ namespace OsaGadgetStore
         {
             return State;
         }
-
-
     }
 
 }

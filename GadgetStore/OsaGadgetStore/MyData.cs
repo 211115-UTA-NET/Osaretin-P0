@@ -22,8 +22,6 @@ namespace OsaGadgetStore
             //  this.location = location;
         }
 
-       
-
         public string getName()
         {
             return itemName;
