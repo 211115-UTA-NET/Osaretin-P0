@@ -18,22 +18,56 @@ namespace OsaGadgetStore
             Console.WriteLine("Welcome to Gadget Store");
 
             Console.WriteLine("Type 1 to shop, Type 2 to search  by name");
-
-
             string? response = Console.ReadLine();
+
+            try
+                {
+
+                if (string.IsNullOrWhiteSpace(response))
+                {
+                    throw new ArgumentException();
+                }
+            }
+                catch (Exception)
+            {
+                Console.WriteLine("Invalid Input");
+                return;
+            }
+
 
             if (response == "2")
             {
 
 
+                
                 Console.WriteLine("Enter Customer First Name and press enter");
                 string cusName = Console.ReadLine();
-                Console.WriteLine("Press 1 to view customer info, Press 2 to view order history, Press 3 view location");
-                response = Console.ReadLine();
+                Console.WriteLine("Press 1 to view customer info, Press 2 to view order history");
+
+            
+                    response = Console.ReadLine();
+                try
+                {
+
+                    if (string.IsNullOrWhiteSpace(response))
+                    {
+                        throw new ArgumentException();
+                    }
+                }
+                catch (Exception)
+                {
+                    Console.WriteLine("Invalid Input");
+                    return;
+                }
+
                 if (response == "1")
                 {
                     Account acct = new Account();
+
+
                     List<Account> accinfo = acct.getCustomerInfo(cusName);
+
+
 
                     foreach (var item in accinfo)
                     {
